@@ -1,0 +1,54 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:AD="clr-namespace:MSNADSDK.AD;assembly=MSNADSDK" 
+    x:Class="KlotskiPhone.MainPage"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar  IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="Record" Click="record"/>
+            </shell:ApplicationBar.MenuItems>
+            <shell:ApplicationBarIconButton IconUri="/Assets/AppBar/appbar.back.rest.png" Text="Last" Click="back_click" />
+            <shell:ApplicationBarIconButton IconUri="/Assets/AppBar/appbar.sync.rest.png" Text="Refresh" Click="refresh_click" />
+            <shell:ApplicationBarIconButton IconUri="/Assets/AppBar/appbar.next.rest.png" Text="Next" Click="next_click"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+    <Grid Height="800">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Images/back.JPG"/>
+        </Grid.Background>
+
+        <Grid Width="478" Height="610" Margin="0,100,2,105">
+            <Grid.Background>
+                <ImageBrush Stretch="Fill" ImageSource="/Images/frame.png"/>
+            </Grid.Background>
+            <Canvas x:Name="mainCanvas" Height="550" Width="440"/>
+        </Grid>
+
+        <Canvas Height="113" VerticalAlignment="Top">
+            <Canvas.Background>
+                <ImageBrush Stretch="Fill" ImageSource="/Images/curstep.png"/>
+            </Canvas.Background>
+        </Canvas>
+        <TextBlock x:Name="textPass" FontSize="25" HorizontalAlignment="Left" Height="35" Margin="113,2,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="318"/>
+        <TextBlock x:Name="textStep" HorizontalAlignment="Left" Height="37" Margin="283,6,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="158"/>
+        <Grid HorizontalAlignment="Left" x:Name="adArea" Height="47" Margin="40,53,0,0" VerticalAlignment="Top" Width="401">
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

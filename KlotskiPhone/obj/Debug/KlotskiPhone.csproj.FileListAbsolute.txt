@@ -1,0 +1,62 @@
+c:\users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\Bin\Debug\ApplicationIcon.png
+c:\users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\Bin\Debug\Background.png
+c:\users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\Bin\Debug\KlotskiPhone.dll
+c:\users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\Bin\Debug\KlotskiPhone.pdb
+c:\users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\Bin\Debug\AppManifest.xaml
+c:\users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\Bin\Debug\KlotskiPhone.xap
+c:\users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\obj\Debug\KlotskiPhone.csprojResolveAssemblyReference.cache
+c:\users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\obj\Debug\App.g.cs
+c:\users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\obj\Debug\MainPage.g.cs
+c:\users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\obj\Debug\KlotskiPhone.g.resources
+c:\users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\obj\Debug\KlotskiPhone.dll
+c:\users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\obj\Debug\KlotskiPhone.pdb
+c:\users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\obj\Debug\XapCacheFile.xml
+c:\users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\obj\Debug\Person.g.cs
+C:\Users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\obj\Debug\Record_Information.g.cs
+C:\Users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\29492_000\documents\visual studio 2012\Projects\KlotskiPhone\KlotskiPhone\obj\Debug\FirstStartView.g.cs
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\Bin\Debug\ApplicationIcon.png
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\Bin\Debug\Background.png
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\Bin\Debug\KlotskiPhone.dll
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\Bin\Debug\KlotskiPhone.pdb
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\Bin\Debug\AppManifest.xaml
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\Bin\Debug\Properties\WMAppManifest.xml
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\Bin\Debug\KlotskiPhone_Debug_AnyCPU.xap
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\obj\Debug\KlotskiPhone.csprojResolveAssemblyReference.cache
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\obj\Debug\App.g.cs
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\obj\Debug\MainPage.g.cs
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\obj\Debug\Person.g.cs
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\obj\Debug\Record_Information.g.cs
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\obj\Debug\KlotskiPhone.g.resources
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\obj\Debug\KlotskiPhone.dll
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\obj\Debug\KlotskiPhone.pdb
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\obj\Debug\XapCacheFile.xml
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\Bin\Debug\JiuYouWp8Ad.dll
+D:\project\wpproject\KlotskiPhone\KlotskiPhone\Bin\Debug\JiuYouWp8Ad.pdb
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\Bin\Debug\ApplicationIcon.png
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\Bin\Debug\Background.png
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\Bin\Debug\KlotskiPhone.dll
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\Bin\Debug\KlotskiPhone.pdb
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\Bin\Debug\AppManifest.xaml
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\Bin\Debug\Properties\WMAppManifest.xml
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\Bin\Debug\KlotskiPhone_Debug_AnyCPU.xap
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\obj\Debug\KlotskiPhone.csprojResolveAssemblyReference.cache
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\obj\Debug\App.g.cs
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\obj\Debug\MainPage.g.cs
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\obj\Debug\Person.g.cs
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\obj\Debug\Record_Information.g.cs
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\obj\Debug\KlotskiPhone.g.resources
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\obj\Debug\KlotskiPhone.dll
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\obj\Debug\KlotskiPhone.pdb
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\obj\Debug\XapCacheFile.xml
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\Bin\Debug\MSNADSDK.dll
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\Bin\Debug\ImageTools.Controls.dll
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\Bin\Debug\ImageTools.dll
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\Bin\Debug\ImageTools.IO.Gif.dll
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\Bin\Debug\ImageTools.Utils.dll
+D:\project\wpproject\KlotskiPhoneEN\KlotskiPhone\Bin\Debug\ImageTools.IO.Png.dll
